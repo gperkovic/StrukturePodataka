@@ -1,3 +1,3 @@
 ﻿  Vjezba.c
-D:\Korisnici\Korisnik\Desktop\Gabrijel\StrukturePodataka\Vjezbe1\Vjezbe1\Vjezba.c(27,25): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
-  Vjezbe1.vcxproj -> D:\Korisnici\Korisnik\Desktop\Gabrijel\StrukturePodataka\Vjezbe1\x64\Debug\Vjezbe1.exe
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezbe1\Vjezbe1\Vjezba.c(102,10): warning C4476: 'printf' : unknown type field character '\t' in format specifier
+  Vjezbe1.vcxproj -> D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezbe1\x64\Debug\Vjezbe1.exe
