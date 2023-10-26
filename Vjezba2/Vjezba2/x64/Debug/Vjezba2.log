@@ -1,4 +1,3 @@
 ﻿  vjezba2.c
-D:\Korisnici\Korisnik\Desktop\Gabrijel\StrukturePodataka\Vjezba2\Vjezba2\vjezba2.c(194,7): warning C4013: 'tolower' undefined; assuming extern returning int
-D:\Korisnici\Korisnik\Desktop\Gabrijel\StrukturePodataka\Vjezba2\Vjezba2\vjezba2.c(228): warning C4172: returning address of local variable or temporary: surname
-  Vjezba2.vcxproj -> D:\Korisnici\Korisnik\Desktop\Gabrijel\StrukturePodataka\Vjezba2\x64\Debug\Vjezba2.exe
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba2\Vjezba2\vjezba2.c(328): warning C4172: returning address of local variable or temporary: surname
+  Vjezba2.vcxproj -> D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba2\x64\Debug\Vjezba2.exe
