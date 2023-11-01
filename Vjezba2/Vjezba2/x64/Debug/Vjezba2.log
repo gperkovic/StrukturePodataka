@@ -1,3 +1,104 @@
 ﻿  vjezba2.c
-D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba2\Vjezba2\vjezba2.c(328): warning C4172: returning address of local variable or temporary: surname
-  Vjezba2.vcxproj -> D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba2\x64\Debug\Vjezba2.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(61,35): error C2054: expected '(' to follow '﻿'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(61,44): error C2085: 'uintptr_t': not in formal parameter list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(72,30): error C2085: 'va_list': not in formal parameter list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2143: syntax error: missing ')' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2082: redefinition of formal parameter '__va_start'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2143: syntax error: missing ';' before '*'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,43): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2061: syntax error: identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2059: syntax error: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,73): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2061: syntax error: identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2059: syntax error: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,89): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2061: syntax error: identifier '__security_cookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(354,10): error C2081: 'uintptr_t': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2146: syntax error: missing ')' before identifier '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2081: 'uintptr_t': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2061: syntax error: identifier '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,35): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(277,66): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(277,66): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(277,66): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(277,66): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(278,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(286,66): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(286,66): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(286,66): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(286,66): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(287,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(295,66): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(295,66): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(295,66): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(295,66): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(296,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(303,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(303,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(303,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(303,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(304,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(308,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(310,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(332,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(332,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(332,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(332,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(333,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(337,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(339,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(365,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(365,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(365,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(365,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(366,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(370,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(372,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(393,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(393,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(393,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(393,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(394,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(398,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(400,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(420,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(420,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(420,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(420,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(421,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(425,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(427,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(451,70): error C2146: syntax error: missing ')' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(451,70): error C2081: 'va_list': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(451,70): error C2061: syntax error: identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(451,70): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(452,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(456,5): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(458,5): error C2059: syntax error: '}'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(485,17): error C2065: 'va_list': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(485,17): error C2146: syntax error: missing ';' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(485,25): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(486,9): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(487,19): warning C4013: '_vfwprintf_l' undefined; assuming extern returning int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(487,67): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(488,9): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(488,9): error C2065: 'va_list': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(488,9): error C2143: syntax error: missing ')' before 'constant'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(488,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(503,17): error C2065: 'va_list': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(503,17): error C2146: syntax error: missing ';' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(503,25): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(504,9): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(505,64): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(506,9): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(506,9): error C2065: 'va_list': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(506,9): error C2143: syntax error: missing ')' before 'constant'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(506,9): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(522,17): error C2065: 'va_list': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(522,17): error C2146: syntax error: missing ';' before identifier '_ArgList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(522,25): error C2065: '_ArgList': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(522,25): fatal  error C1003: error count exceeds 100; stopping compilation
