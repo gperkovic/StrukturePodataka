@@ -1,0 +1,5 @@
+﻿  Vjezba5.c
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba5\Vjezba5\Vjezba5.c(32,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba5\Vjezba5\Vjezba5.c(47,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba5\Vjezba5\Vjezba5.c(67,25): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezba5\Vjezba5\Vjezba5.c(75,13): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

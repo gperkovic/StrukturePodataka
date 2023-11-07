@@ -1,0 +1,3 @@
+﻿  Vjezba4.c
+D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezbe4\Vjezbe4\Vjezba4.c(222,9): warning C4013: 'strlen' undefined; assuming extern returning int
+  Vjezbe4.vcxproj -> D:\Korisnici\Korisnik\Desktop\StrukPod\StrukturePodataka\Vjezbe4\x64\Debug\Vjezbe4.exe
