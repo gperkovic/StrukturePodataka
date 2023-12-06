@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define ALLOCATION_FAILURE -1
-#define FILE_OPEN_FAILURE -2
+#define FILE_OPEN_FAILURE -2B
 #define MAX 1024
 
 struct _List;

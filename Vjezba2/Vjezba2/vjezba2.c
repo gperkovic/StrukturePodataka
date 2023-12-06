@@ -12,7 +12,7 @@ U zadatku se ne smiju koristiti globalne varijable.*/
 #include <string.h>
 
 #define MAX_LENGTH (50)
-
+;
 struct _Person;
 typedef struct _Person* Position;
 typedef struct _Person
